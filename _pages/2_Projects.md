@@ -5,8 +5,6 @@ permalink: /projects/
 image:
 ---
 
-## Projects
-
 
 <div class="publication-entry">
 
