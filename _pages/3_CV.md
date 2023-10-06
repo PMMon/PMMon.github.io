@@ -7,7 +7,7 @@ image:
 
 ## Work Experience
 
-### Ph.D. Candidate & Research Assistant
+<span style="font-size: 18px;">**Ph.D. Candidate & Research Assistant**</span>  
 **Location**: Munich, Germany  
 **Company**: [Munich AI & NLP Research Lab](https://mainlp.github.io/)  
 **Duration**: Oct. 2023 - Present
@@ -15,7 +15,7 @@ image:
 - Research within the fields of LLM-based and human reasoning
 - Exploring mechanisms underlying human reasoning and applying insights to the development and refinement of LLM-based reasoning systems
 
-### AI Engineer
+<span style="font-size: 18px;">**AI Engineer**</span>  
 **Location**: Munich, Germany  
 **Company**: [AppliedAI Initiative](https://www.appliedai.de/en)  
 **Duration**: Apr. 2023 - Oct. 2023
@@ -24,7 +24,7 @@ image:
 - Transitioned AI applications from proof-of-concept stages to full organizational deployment
 - Led efforts in adopting new AI frameworks and tools in the realm of Generative AI
 
-### Machine Learning Engineer (Research & Development)
+<span style="font-size: 18px;">**Machine Learning Engineer (Research & Development)**</span>  
 **Location**: Munich, Germany  
 **Company**: [Brainamics](https://brainamics.de/)  
 **Duration**: Aug. 2022 - Feb. 2023
@@ -33,7 +33,7 @@ image:
 - Project lead for real-time emotion extraction based on electrical brain activity
 - Research within various fields such as BCI, time-series analysis, and domain generalization
 
-### Research Assistant
+<span style="font-size: 18px;">**Research Assistant**</span>  
 **Location**: Stockholm, Sweden  
 **Company**: [Computational Brain Science Lab (KTH)](https://www.kth.se/cs/cst/research/computational-brain-science-1.779076)  
 **Duration**: Apr. 2021 - Jan. 2022  
@@ -42,7 +42,7 @@ image:
 - Established a data processing pipeline for high-bandwidth dynamic vision sensors
 - Collaborated with an eight-people research team to advance neuromorphic computing for event-based vision
 
-### Data Scientist
+<span style="font-size: 18px;">**Data Scientist**</span>  
 **Location**: Munich, Germany  
 **Company**: [Cognition Factory](https://cognitionfactory.com/)  
 **Duration**: May 2020 - Aug. 2020  
@@ -50,7 +50,7 @@ image:
 - Built data analysis frameworks for autonomous mobile robots applied within production warehouses
 - Optimized factory and warehouse layouts based on extensive data evaluations
 
-### Data Scientist Internship
+<span style="font-size: 18px;">**Data Scientist Internship**</span>  
 **Location**: Munich, Germany  
 **Company**: [BMW](https://www.bmwgroup.com/en.html)  
 **Duration**: Apr. 2019 - Oct. 2019
@@ -59,7 +59,7 @@ image:
 - Developed data analysis tools to evaluate and operate on big data streams collected from BMW’s vehicles
 - Strong collaboration with various departments to build machine learning frameworks that identify anomalies in driving behavior
 
-### Research Internship
+<span style="font-size: 18px;">**Research Internship**</span>  
 **Location**: Munich, Germany  
 **Company**: [Chair of Robotics, Artificial Intelligence & Real-time Systems (TUM)](https://www.ce.cit.tum.de/en/air/home/)  
 **Duration**: Mar. 2018 - Oct. 2018  
@@ -71,7 +71,7 @@ image:
 
 ## Education
 
-### Doctor of Philosopy
+<span style="font-size: 18px;">**Doctor of Philosopy**</span>  
 **Location**: Munich, Germany  
 **Institution**: [Ludwig-Maximilians-University](https://www.lmu.de/en/index.html)  
 **Duration**: Oct. 2023 - Sep. 2026  
@@ -79,7 +79,7 @@ image:
 - Research in the fields of LLM-based and human Reasoning
 
 
-### M.Sc. Systems, Control and Robotics
+<span style="font-size: 18px;">**M.Sc. Systems, Control and Robotics**</span>  
 **Location**: Stockholm, Sweden  
 **Institution**: [KTH Royal Institute of Technology](https://www.kth.se/en/studies/master/systems-control-robotics/msc-systems-control-and-robotics-1.8733)  
 **Duration**: Aug. 2020 - Aug. 2022  
@@ -91,7 +91,7 @@ image:
 - Courses: Introduction to Robotics, Social Robotics, Conversational Systems, Applied Estimation, Image Analysis and Computer Vision, Machine Learning, ANNs & Deep Architectures, Control Theory (Advanced), Modelling of Dynamical Systems, C++ for Scientific Computing
 
 
-### B.Sc. Engineering Science
+<span style="font-size: 18px;">**B.Sc. Engineering Science**</span>  
 **Location**: Munich, Germany  
 **Institution**: [Technical University of Munich](https://www.tum.de/en/studies/degree-programs/detail/engineering-science-bachelor-of-science-bsc)  
 **Duration**: Oct. 2016 - May 2020  
@@ -124,20 +124,20 @@ image:
 
 ## Social Engagement
 
-### Member of Students Refugee Team  
+<span style="font-size: 18px;">**Member of Students Refugee Team**</span>  
 **Location**: Munich, Germany  
 **Institution**: CVJM Munich e.V.  
 **Duration**: Dec. 2017 - Aug. 2020  
 - Supported refugees in administrative tasks
 - Weekly tutoring in Physics and Math
 
-### Environmental Volunteer  
+<span style="font-size: 18px;">**Environmental Volunteer**</span>  
 **Location**: New Zealand  
 **Institution**: Experiment e.V.   
 **Duration**: Oct. 2015 - Jan. 2016  
 - Nature conservation work to protect New Zealand’s wildlife
 
-### Federal Volunteer Service  
+<span style="font-size: 18px;">**Federal Volunteer Service**</span>   
 **Location**: Cologne, Germany  
 **Institution**: Humboldt-Ring e.V.  
 **Duration**: Sep. 2014 - Aug. 2015  
