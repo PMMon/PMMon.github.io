@@ -7,6 +7,7 @@ image:
 
 ## Projects
 
+
 <div class="publication-entry">
 
   <!-- Image -->
@@ -15,10 +16,10 @@ image:
   <!-- Text Info -->
   <div class="publication-info">
 
-### Pedestrian Tracking in Video Sequences using Particle Filters
+    ### Pedestrian Tracking in Video Sequences using Particle Filters
 
-Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology, 2021  
-[Read Paper](https://github.com/PMMon/PedestrianTracking_PF/blob/master/EL2320_ProjectReport_PhilippMondorf.pdf) | [Code](https://github.com/PMMon/PedestrianTracking_PF)
+    Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology, 2021  
+    [Read Paper](https://github.com/PMMon/PedestrianTracking_PF/blob/master/EL2320_ProjectReport_PhilippMondorf.pdf) | [Code](https://github.com/PMMon/PedestrianTracking_PF)
 
   </div>
 
@@ -27,15 +28,15 @@ Project Report, Division of Robotics, Perception and Learning, KTH Royal Institu
 <div class="publication-entry">
 
   <!-- Image -->
-  <img src="../assets/img/projects/Social_LSTM_Model_Predictions.png" alt="Social LSTM Model Predictions" class="publication-image" style="width: 100px; height: 100px; margin-right: 20px;">
+  <img src="../assets/img/projects/Social_LSTM_Model_Predictions.png" alt="Social LSTM Model Predictions" class="publication-image" style="width: 200px; height: 200px; margin-right: 20px;">
 
   <!-- Text Info -->
   <div class="publication-info">
 
-### Modeling Social Interactions for Pedestrian Trajectory Prediction on Real and Synthetic Datasets
+    ### Modeling Social Interactions for Pedestrian Trajectory Prediction on Real and Synthetic Datasets
 
-B.Sc. Thesis, Department of Informatics, Technical University of Munich, 2020  
-[Read Paper](https://github.com/PMMon/Thesis_Social_Interactions/blob/master/Bachelor_Thesis_Philipp_Mondorf.pdf) | [Code](https://github.com/PMMon/Thesis_Social_Interactions)
+    B.Sc. Thesis, Department of Informatics, Technical University of Munich, 2020  
+    [Read Paper](https://github.com/PMMon/Thesis_Social_Interactions/blob/master/Bachelor_Thesis_Philipp_Mondorf.pdf) | [Code](https://github.com/PMMon/Thesis_Social_Interactions)
 
   </div>
 

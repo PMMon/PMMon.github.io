@@ -143,6 +143,5 @@ image:
 **Duration**: Sep. 2014 - Aug. 2015  
 - Supervised students from 5th to 9th grade
 
----
 
 *Updated: October 2023*
