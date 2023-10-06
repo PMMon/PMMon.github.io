@@ -88,7 +88,7 @@ J. Almeida, M. Fraile, P. Mondorf and V. Sanchez (2022). <i>Risks of Conversatio
 <h3>Modeling Social Interactions for Pedestrian Trajectory Prediction on Real and Synthetic Datasets</h3>
 
 <p>P. Mondorf (2020). <i>Modeling Social Interactions for Pedestrian Trajectory Prediction on Real and Synthetic Datasets</i>, B.Sc. Thesis, Department of Informatics, Technical University of Munich.</p>   
-<p><a href="https://github.com/PMMon/Thesis_Social_Interactions/blob/master/Bachelor_Thesis_Philipp_Mondorf.pdf">Read B.Sc. Thesis</a> | <a href="https://github.com/PMMon/Thesis_Social_Interactions)">Code</a></p>  
+<p><a href="https://github.com/PMMon/Thesis_Social_Interactions/blob/master/Bachelor_Thesis_Philipp_Mondorf.pdf">Read B.Sc. Thesis</a> | <a href="https://github.com/PMMon/Thesis_Social_Interactions">Code</a></p>  
 
   </div>
 
