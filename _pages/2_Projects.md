@@ -53,7 +53,7 @@ image:
 
 <h3>Risks of Conversational Robots as Moral Agents Influencing Humans towards Unethical Behaviours</h3>
 
-J. Almeida, M. Fraile, P. Mondorf and V. Sanchez (2022). <i>Risks of Conversational Robots as Moral Agents Influencing Humans towards Unethical Behaviours</i>. Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology.</p>    
+<p>J. Almeida, M. Fraile, P. Mondorf and V. Sanchez (2022). <i>Risks of Conversational Robots as Moral Agents Influencing Humans towards Unethical Behaviours</i>. Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology.</p>    
 <p><a href="https://github.com/PMMon/PersuasiveFurhat/blob/main/ProjectReport.pdf">Read Report</a> | <a href="https://github.com/PMMon/PersuasiveFurhat">Code</a></p> 
 
   </div>
@@ -70,7 +70,7 @@ J. Almeida, M. Fraile, P. Mondorf and V. Sanchez (2022). <i>Risks of Conversatio
 
 <h3>Pedestrian Tracking in Video Sequences using Particle Filters</h3>
 
-<p>P. Mondorf, T. Labourdette‑Liaresq and D. Singh (2021). <i>Pedestrian Tracking in Video Sequences using Particle Filters</i>. Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology.</p>  
+<p>P. Mondorf, T. Labourdette‑Liaresq and D. Singh (2021). <i>Pedestrian Tracking in Video Sequences using Particle Filters</i>. Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology.</p>
 <p><a href="https://github.com/PMMon/PedestrianTracking_PF/blob/master/EL2320_ProjectReport_PhilippMondorf.pdf">Read Report</a> | <a href="https://github.com/PMMon/PedestrianTracking_PF">Code</a></p> 
 
   </div>
