@@ -9,22 +9,30 @@ url: https://PMMon.github.io # the base hostname & protocol for your site, e.g. 
 author:
   name: Philipp Mondorf
   image: '/assets/img/about.jpg'
-  job: Welcome to my page!
+  job: Exploring the Frontiers of Intelligence
   bio: |+
     <br />
-    I'm currently a PhD Student in Statistics at UC Santa Cruz.
+    Hi! I'm a first-year Ph.D. student at the <a href="https://mainlp.github.io/">Munich AI & NLP Research Lab (MaiNLP)</a> at 
+    <a href="https://www.lmu.de/en/">Ludwig-Maximilian Universität</a>, under the supervision of <a href="https://bplank.github.io/">Prof. Dr. Barbara Plank</a>.
     <br />
     <br />
-    I am broadly interested in developing statistical tools for applications relevant to public policy.
-    I previously worked in clean energy with a brief stint at the CA State Government.
+    My research focuses on LLM-based and human reasoning.
+    Eager to explore what constitutes intelligence, my research lies at the intersection of artificial intelligence
+    and cognitive science, aiming to explore the mechanisms underlying human reasoning and to apply these insights to the development and refinement of 
+    LLM-based reasoning systems.
     <br />
     <br />
-    This site is a blend of professional/personal content.
+    Before pursuing my Ph.D., I completed a Master's degree in Systems, Control, and Robotics at the <a href="https://www.kth.se/en">Royal Institute of Technology (KTH)</a> in Stockholm. 
+    I also hold a Bachelor's degree in Engineering Science from the <a href="https://www.tum.de/en">Technical University of Munich (TUM)</a>.
     <br />
-  resume: https://drive.google.com/open?id=1J6aLCXWmPvK0Uocgy3uAun6HobrFwFxT&authuser=shokawano5%40gmail.com&usp=drive_fs
+    <br />
+    If you have questions or are interested in collaborating on research projects, please feel free to contact me!
+    <br />
   email: P.Mondorf@lmu.de
   github: https://github.com/PMMon
   last_update:  October 2023
+  linkedin: https://www.linkedin.com/in/philipp-mondorf-b733bb221/
+  twitter: https://twitter.com/PMMondorf
 
 
 
@@ -40,7 +48,7 @@ disqus-identifier: PM-personal # add your shortname for Disqus Comment. For exam
 
 
 # Google Analytics
-google-analytics: UA-208765987-1
+google-analytics:
 # add your identifier. For example UA-99631805-1.
 
 
