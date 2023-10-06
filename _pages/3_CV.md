@@ -86,7 +86,7 @@ image:
 **Institution**: [Ludwig-Maximilians-University](https://www.lmu.de/en/index.html)  
 **Duration**: Oct. 2023 - Sep. 2026  
 
-- Research in the fields of LLM-based and human Reasoning
+- Research in the fields of LLM-based and human reasoning
 
 <br/>
 
