@@ -18,7 +18,7 @@ image:
 
 <h3>Spiking Reinforcement Learning for Robust Robot Control Under Varying Operating Conditions</h3>
 
-<p>P. Mondorf: ”Spiking Reinforcement Learning for Robust Robot Control Under Varying Operating Conditions”, M.Sc. Thesis, School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, 2022.</p> 
+<p>P. Mondorf (2022). <i>Spiking Reinforcement Learning for Robust Robot Control Under Varying Operating Conditions</i>. M.Sc. Thesis, School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology.</p> 
 <p><a href="https://github.com/PMMon/SpikingRL_RobustControl/blob/main/MSc_Thesis_PhilippMondorf.pdf">Read M.Sc. Thesis</a></p>
 
   </div>
@@ -36,7 +36,7 @@ image:
 
 <h3>The Influence of Emotion Detection on User’s Engagement in an Interactive Storytelling Scenario</h3>
 
-<p>S. Antaris, W. Eriksson and P. Mondorf: ”The Influence of Emotion Detection on User’s Engagement in an Interactive Storytelling Scenario”, Project Report, Division of Speech, Music and Hearing, KTH Royal Institute of Technology, 2022.</p> 
+<p>S. Antaris, W. Eriksson and P. Mondorf (2022). <i>The Influence of Emotion Detection on User’s Engagement in an Interactive Storytelling Scenario</i>. Project Report, Division of Speech, Music and Hearing, KTH Royal Institute of Technology.</p> 
 <p><a href="https://github.com/PMMon/ERStoryteller/blob/main/ProjectReport.pdf">Read Report</a> | <a href="https://github.com/PMMon/ERStoryteller">Code</a></p>
 
   </div>
@@ -53,7 +53,7 @@ image:
 
 <h3>Risks of Conversational Robots as Moral Agents Influencing Humans towards Unethical Behaviours</h3>
 
-J. Almeida, M. Fraile, P. Mondorf and V. Sanchez: ”Risks of Conversational Robots as Moral Agents Influencing Humans towards Unethical Behaviours”, Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology, 2022.</p>    
+J. Almeida, M. Fraile, P. Mondorf and V. Sanchez (2022). <i>Risks of Conversational Robots as Moral Agents Influencing Humans towards Unethical Behaviours</i>. Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology.</p>    
 <p><a href="https://github.com/PMMon/PersuasiveFurhat/blob/main/ProjectReport.pdf">Read Report</a> | <a href="https://github.com/PMMon/PersuasiveFurhat">Code</a></p> 
 
   </div>
@@ -70,7 +70,7 @@ J. Almeida, M. Fraile, P. Mondorf and V. Sanchez: ”Risks of Conversational Rob
 
 <h3>Pedestrian Tracking in Video Sequences using Particle Filters</h3>
 
-<p>P. Mondorf, T. Labourdette‑Liaresq and D. Singh: ”Pedestrian Tracking in Video Sequences using Particle Filters”, Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology, 2021</p>  
+<p>P. Mondorf, T. Labourdette‑Liaresq and D. Singh (2021). <i>Pedestrian Tracking in Video Sequences using Particle Filters</i>. Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology.</p>  
 <p><a href="https://github.com/PMMon/PedestrianTracking_PF/blob/master/EL2320_ProjectReport_PhilippMondorf.pdf">Read Report</a> | <a href="https://github.com/PMMon/PedestrianTracking_PF">Code</a></p> 
 
   </div>
@@ -87,7 +87,7 @@ J. Almeida, M. Fraile, P. Mondorf and V. Sanchez: ”Risks of Conversational Rob
 
 <h3>Modeling Social Interactions for Pedestrian Trajectory Prediction on Real and Synthetic Datasets</h3>
 
-<p>P. Mondorf: ”Modeling Social Interactions for Pedestrian Trajectory Prediction on Real and Synthetic Datasets”, B.Sc. Thesis, Department of Informatics, Technical University of Munich, 2020.</p>   
+<p>P. Mondorf (2020). <i>Modeling Social Interactions for Pedestrian Trajectory Prediction on Real and Synthetic Datasets</i>, B.Sc. Thesis, Department of Informatics, Technical University of Munich.</p>   
 <p><a href="https://github.com/PMMon/Thesis_Social_Interactions/blob/master/Bachelor_Thesis_Philipp_Mondorf.pdf">Read B.Sc. Thesis</a> | <a href="https://github.com/PMMon/Thesis_Social_Interactions)">Code</a></p>  
 
   </div>
