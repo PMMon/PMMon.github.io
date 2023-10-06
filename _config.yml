@@ -1,13 +1,13 @@
-title: Sho Kawano
+title: Philipp Mondorf
 logo:  # you can add own logo.
-description:
+description: LLM-based & Human Reasoning
 baseurl: ""
-url: https://sho-kawano.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://PMMon.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Sho Kawano
+  name: Philipp Mondorf
   image: '/assets/img/about.jpg'
   job: Welcome to my page!
   bio: |+
@@ -22,9 +22,9 @@ author:
     This site is a blend of professional/personal content.
     <br />
   resume: https://drive.google.com/open?id=1J6aLCXWmPvK0Uocgy3uAun6HobrFwFxT&authuser=shokawano5%40gmail.com&usp=drive_fs
-  email: shkawano@ucsc.edu
-  github: https://github.com/sho-kawano
-  last_update:  July 2023
+  email: P.Mondorf@lmu.de
+  github: https://github.com/PMMon
+  last_update:  October 2023
 
 
 
@@ -36,7 +36,7 @@ author:
 #
 
 # Comment Section (Disqus)
-disqus-identifier: sho-personal # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: PM-personal # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
