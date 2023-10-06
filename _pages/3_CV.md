@@ -15,6 +15,8 @@ image:
 - Research within the fields of LLM-based and human reasoning
 - Exploring mechanisms underlying human reasoning and applying insights to the development and refinement of LLM-based reasoning systems
 
+<br/>
+
 <span style="font-size: 18px;">**AI Engineer**</span>  
 **Location**: Munich, Germany  
 **Company**: [AppliedAI Initiative](https://www.appliedai.de/en)  
@@ -23,6 +25,8 @@ image:
 - Built large-scale machine learning pipelines for real-world problems in industry
 - Transitioned AI applications from proof-of-concept stages to full organizational deployment
 - Led efforts in adopting new AI frameworks and tools in the realm of Generative AI
+
+<br/>
 
 <span style="font-size: 18px;">**Machine Learning Engineer (Research & Development)**</span>  
 **Location**: Munich, Germany  
@@ -33,6 +37,8 @@ image:
 - Project lead for real-time emotion extraction based on electrical brain activity
 - Research within various fields such as BCI, time-series analysis, and domain generalization
 
+<br/>
+
 <span style="font-size: 18px;">**Research Assistant**</span>  
 **Location**: Stockholm, Sweden  
 **Company**: [Computational Brain Science Lab (KTH)](https://www.kth.se/cs/cst/research/computational-brain-science-1.779076)  
@@ -42,6 +48,8 @@ image:
 - Established a data processing pipeline for high-bandwidth dynamic vision sensors
 - Collaborated with an eight-people research team to advance neuromorphic computing for event-based vision
 
+<br/>
+
 <span style="font-size: 18px;">**Data Scientist**</span>  
 **Location**: Munich, Germany  
 **Company**: [Cognition Factory](https://cognitionfactory.com/)  
@@ -49,6 +57,8 @@ image:
 
 - Built data analysis frameworks for autonomous mobile robots applied within production warehouses
 - Optimized factory and warehouse layouts based on extensive data evaluations
+
+<br/>
 
 <span style="font-size: 18px;">**Data Scientist Internship**</span>  
 **Location**: Munich, Germany  
@@ -78,6 +88,7 @@ image:
 
 - Research in the fields of LLM-based and human Reasoning
 
+<br/>
 
 <span style="font-size: 18px;">**M.Sc. Systems, Control and Robotics**</span>  
 **Location**: Stockholm, Sweden  
@@ -90,6 +101,7 @@ image:
 - Thesis: Spiking Reinforcement Learning for Robust Robot Control Under Varying Operating Conditions
 - Courses: Introduction to Robotics, Social Robotics, Conversational Systems, Applied Estimation, Image Analysis and Computer Vision, Machine Learning, ANNs & Deep Architectures, Control Theory (Advanced), Modelling of Dynamical Systems, C++ for Scientific Computing
 
+<br/>
 
 <span style="font-size: 18px;">**B.Sc. Engineering Science**</span>  
 **Location**: Munich, Germany  
@@ -131,11 +143,15 @@ image:
 - Supported refugees in administrative tasks
 - Weekly tutoring in Physics and Math
 
+<br/>
+
 <span style="font-size: 18px;">**Environmental Volunteer**</span>  
 **Location**: New Zealand  
 **Institution**: Experiment e.V.   
 **Duration**: Oct. 2015 - Jan. 2016  
 - Nature conservation work to protect New Zealand’s wildlife
+
+<br/>
 
 <span style="font-size: 18px;">**Federal Volunteer Service**</span>   
 **Location**: Cologne, Germany  
