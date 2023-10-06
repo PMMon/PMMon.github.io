@@ -5,4 +5,4 @@ permalink: /publications/
 image:
 ---
 
-Publications are yet to come.
+Soon to come. 
