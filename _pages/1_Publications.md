@@ -5,4 +5,4 @@ permalink: /publications/
 image:
 ---
 
-Soon to come. 
+Soon to come :)
