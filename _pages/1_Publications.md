@@ -15,7 +15,7 @@ image:
 
 <h3>Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning</h3>
 
-<p>Philipp Mondorf, & Barbara Plank. (2024). <i>Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning.</i>.</p> 
+<p>Philipp Mondorf, & Barbara Plank. (2024). <i>Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning</i>. ArXiv:2402.14856 [cs].</p> 
 <p><a href="https://arxiv.org/abs/2402.14856">Read Paper</a></p>
 
   </div>
