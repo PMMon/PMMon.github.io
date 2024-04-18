@@ -9,7 +9,7 @@ image:
 
   <!-- Image -->
   <a href="{{ site.baseurl }}/assets/img/projects/beyond_accuracy_survey/evaluation_methods.png" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/projects/beyond_accuracy_survey/evaluation_methods.png" alt="Storyflow" class="publication-image" style="max-width: 150px; max-height: 89px; margin-right: 20px;">
+    <img src="{{ site.baseurl }}/assets/img/projects/beyond_accuracy_survey/evaluation_methods.png" alt="Storyflow" class="publication-image" style="width: 150px; height: 89px; margin-right: 20px;">
   </a>
 
   <!-- Text Info -->
@@ -28,7 +28,7 @@ image:
 
   <!-- Image -->
   <a href="{{ site.baseurl }}/assets/img/projects/comparing_inf_strategies/comparing_inf_strategies.webp" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/projects/comparing_inf_strategies/comparing_inf_strategies.webp" alt="Storyflow" class="publication-image" style="max-width: 150px; max-height: 150px; margin-right: 20px;">
+    <img src="{{ site.baseurl }}/assets/img/projects/comparing_inf_strategies/comparing_inf_strategies.webp" alt="Storyflow" class="publication-image" style="width: 150px; height: 150px; margin-right: 20px;">
   </a>
 
   <!-- Text Info -->
