@@ -73,7 +73,7 @@ image:
   <div class="publication-info">
 
   <h3>Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning</h3>
-  <p><strong>Philipp Mondorf</strong> & Barbara Plank. (2024). <i>Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning</i>. ArXiv:2402.14856 [cs.CL].</p>
+  <p><strong>Philipp Mondorf</strong> & Barbara Plank. (2024). <i>Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning</i>. In The 62nd Annual Meeting of the Association for Computational Linguistics.</p>
   <p><strong>ACL 2024 Main</strong></p>
   <p><a href="https://doi.org/10.48550/arXiv.2402.14856">Read Paper</a> | <a href="https://github.com/mainlp/inferential-strategies">Code</a> | <a href="https://huggingface.co/datasets/mainlp/inferential_strategies">Data</a></p>
 

@@ -61,7 +61,7 @@ image:
 <div class="publication-entry">
 
   <!-- Image -->
-  <img src="../assets/img/projects/ParticleFilter_ICM_model.gif" alt="Particle filter" class="publication-image" style="width: 200px; height: 110px; margin-right: 20px;">
+  <img src="../assets/img/projects/ParticleFilter_ICM_model.png" alt="Particle filter" class="publication-image" style="width: 200px; height: 110px; margin-right: 20px;">
 
   <!-- Text Info -->
   <div class="publication-info">
