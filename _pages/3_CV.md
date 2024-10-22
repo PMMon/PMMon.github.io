@@ -81,7 +81,7 @@ image:
 
 ## Education
 
-<span style="font-size: 18px;">**Doctor of Philosopy**</span>  
+<span style="font-size: 18px;">**Doctor of Philosophy**</span>  
 **Location**: Munich, Germany  
 **Institution**: [Ludwig-Maximilians-University](https://www.lmu.de/en/index.html)  
 **Duration**: Oct. 2023 - Sep. 2026  
