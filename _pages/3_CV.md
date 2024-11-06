@@ -87,7 +87,7 @@ image:
 **Duration**: Oct. 2023 - Sep. 2026  
 
 - Exploring the path to reasoning in LLMs
-- Published in top-tier conferences such as ACL, COLM, EMNLP
+- Published in top-tier conferences such as ACL, COLM, EMNLP, etc.
 
 <br/>
 
