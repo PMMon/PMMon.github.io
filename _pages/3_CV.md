@@ -10,9 +10,9 @@ image:
 <span style="font-size: 18px;">**Ph.D. Candidate & Research Assistant**</span>  
 **Location**: Munich, Germany  
 **Company**: [Munich AI & NLP Research Lab](https://mainlp.github.io/)  
-**Duration**: Oct. 2023 - Present
+**Duration**: Oct. 2023 - Sep. 2026
 
-- Research within the fields of LLM-based and human reasoning
+- Research focused on reasoning in LLMs and humans
 - Exploring mechanisms underlying human reasoning and applying insights to the development and refinement of LLM-based reasoning systems
 
 <br/>
@@ -86,7 +86,8 @@ image:
 **Institution**: [Ludwig-Maximilians-University](https://www.lmu.de/en/index.html)  
 **Duration**: Oct. 2023 - Sep. 2026  
 
-- Research in the fields of LLM-based and human reasoning
+- Exploring the path to reasoning in LLMs
+- Published in top-tier conferences such as ACL, COLM, EMNLP
 
 <br/>
 
