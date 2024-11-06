@@ -1,6 +1,6 @@
 title: Philipp Mondorf
 logo:  # you can add own logo.
-description: LLM-based & Human Reasoning
+description: Reasoning in LLMs and humans
 baseurl: ""
 url: https://PMMon.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -27,6 +27,7 @@ author:
     If you have questions or are interested in collaborating on research projects, please feel free to contact me!
     <br />
   email: P.Mondorf@lmu.de
+  google_scholar: https://scholar.google.de/citations?user=lu0EbWYAAAAJ&hl=de&authuser=1
   github: https://github.com/PMMon
   last_update:  October 2023
   linkedin: https://www.linkedin.com/in/philipp-mondorf-b733bb221/
