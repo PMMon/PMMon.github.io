@@ -35,9 +35,9 @@ image:
   <div class="publication-info">
 
   <h3>Liar, Liar, Logical Mire: A Benchmark for Suppositional Reasoning in Large Language Models</h3>
-  <p><strong>Philipp Mondorf</strong> and Barbara Plank. 2024. <a href="https://doi.org/10.48550/arXiv.2406.12546">Liar, Liar, Logical Mire: A Benchmark for Suppositional Reasoning in Large Language Models</a>. In <i>The 2024 Conference on Empirical Methods in Natural Language Processing</i>, Miami, United States of America.</p> 
+  <p><strong>Philipp Mondorf</strong> and Barbara Plank. 2024. <a href="https://aclanthology.org/2024.emnlp-main.404">Liar, Liar, Logical Mire: A Benchmark for Suppositional Reasoning in Large Language Models</a>. In <i>The 2024 Conference on Empirical Methods in Natural Language Processing</i>, Miami, United States of America.</p> 
   <p><strong>EMNLP 2024 Main</strong></p>
-  <p><a href="https://doi.org/10.48550/arXiv.2406.12546">Read Paper</a> | <a href="https://github.com/mainlp/TruthQuest">Code</a> | <a href="https://huggingface.co/datasets/mainlp/TruthQuest">Data</a></p>
+  <p><a href="https://aclanthology.org/2024.emnlp-main.404">Read Paper</a> | <a href="https://github.com/mainlp/TruthQuest">Code</a> | <a href="https://huggingface.co/datasets/mainlp/TruthQuest">Data</a></p>
 
   </div>
 
